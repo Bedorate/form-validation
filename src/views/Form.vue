@@ -155,7 +155,7 @@ export default {
 
 <style lang="scss">
 .form {
-  width: 640px;
+  width: 720px;
   padding: 16px;
   &-title {
     font-size: 24px;
